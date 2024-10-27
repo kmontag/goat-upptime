@@ -1,6 +1,6 @@
 [
   {
-    "name": "🐐",
+    "name": "🐐..",
     "url": "$SITE_568638CA69CBB20DF0A654A8007DD334A94D391DCA44259B99833214527490FC",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 115,
-    "timeDay": 62,
-    "timeWeek": 115,
-    "timeMonth": 115,
-    "timeYear": 115,
+    "time": 113,
+    "timeDay": 85,
+    "timeWeek": 113,
+    "timeMonth": 113,
+    "timeYear": 113,
     "dailyMinutesDown": {}
   }
 ]
