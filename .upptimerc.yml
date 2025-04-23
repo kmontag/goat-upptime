@@ -15,9 +15,11 @@ sites:
   # 
   - name: "🐐o"
     url: "$SITE_613C800612E043C74B0B52303FEF5DC8412764FEB9D4C04E4ED825594555EBCB"
+    maxResponseTime: 10000
   # 
   - name: "💩sss"
     url: "$SITE_B4FF5A3281C769C7A5E8725601EB5103CC1A283263F13BFA8ED8BE3FD675670F"
+    maxResponseTime: 10000
   # 
 
 status-website:
@@ -29,3 +31,7 @@ status-website:
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
 skipHomepageUpdate: true
+
+# Don't delete issues that were open for less than 15 minutes - we want to get notifications that
+# they were resolved.
+skipDeleteIssues: true
