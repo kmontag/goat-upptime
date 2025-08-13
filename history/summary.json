@@ -39,7 +39,7 @@
     "url": "$SITE_B4FF5A3281C769C7A5E8725601EB5103CC1A283263F13BFA8ED8BE3FD675670F",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sss",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "99.33%",
     "uptimeWeek": "99.61%",
@@ -51,6 +51,7 @@
     "timeMonth": 4846,
     "timeYear": 3325,
     "dailyMinutesDown": {
+      "2025-08-13": 0,
       "2025-08-12": 10,
       "2025-08-10": 9,
       "2025-08-08": 10,
