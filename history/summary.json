@@ -63,18 +63,19 @@
     "url": "$SITE_B4FF5A3281C769C7A5E8725601EB5103CC1A283263F13BFA8ED8BE3FD675670F",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sss",
-    "status": "up",
+    "status": "down",
     "uptime": "98.80%",
-    "uptimeDay": "99.10%",
+    "uptimeDay": "99.09%",
     "uptimeWeek": "99.23%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "98.40%",
-    "time": 4437,
+    "time": 4442,
     "timeDay": 2725,
     "timeWeek": 3252,
     "timeMonth": 3605,
     "timeYear": 4765,
     "dailyMinutesDown": {
+      "2026-03-17": 0,
       "2026-03-16": 13,
       "2026-03-13": 33,
       "2026-03-11": 32,
@@ -104,7 +105,7 @@
       "2025-09-09": 142,
       "2025-09-08": 86,
       "2025-09-07": 90,
-      "2025-09-06": 84
+      "2025-09-06": 71
     }
   }
 ]
