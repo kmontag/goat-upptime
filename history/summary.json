@@ -4,16 +4,16 @@
     "url": "$SITE_613C800612E043C74B0B52303FEF5DC8412764FEB9D4C04E4ED825594555EBCB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "o",
-    "status": "down",
+    "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "96.34%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "99.42%",
     "uptimeYear": "99.91%",
     "time": 824,
-    "timeDay": 4957,
-    "timeWeek": 2083,
-    "timeMonth": 1059,
+    "timeDay": 4947,
+    "timeWeek": 1993,
+    "timeMonth": 1043,
     "timeYear": 401,
     "dailyMinutesDown": {
       "2026-02-27": 15,
@@ -38,7 +38,7 @@
       "2026-10-22": 21,
       "2026-10-23": 48,
       "2026-10-24": 16,
-      "2026-10-25": 1
+      "2026-10-25": 45
     }
   },
   {
@@ -48,12 +48,12 @@
     "slug": "sss",
     "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "93.48%",
-    "uptimeWeek": "96.46%",
-    "uptimeMonth": "98.44%",
-    "uptimeYear": "99.62%",
+    "uptimeDay": "90.67%",
+    "uptimeWeek": "96.00%",
+    "uptimeMonth": "98.33%",
+    "uptimeYear": "99.61%",
     "time": 4663,
-    "timeDay": 18274,
+    "timeDay": 14775,
     "timeWeek": 10743,
     "timeMonth": 9133,
     "timeYear": 4118,
@@ -114,7 +114,7 @@
       "2026-10-22": 32,
       "2026-10-23": 113,
       "2026-10-24": 55,
-      "2026-10-25": 42
+      "2026-10-25": 88
     }
   }
 ]
